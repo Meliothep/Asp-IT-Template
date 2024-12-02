@@ -1,5 +1,5 @@
 {
-    "project_name": "MyMicroService", 
+    "project_name": "SolutionName", 
     "project_port" : 5054,
     "kafka_port" : 9092, 
     "postgres_username" : "MyMicroServiceUser",
