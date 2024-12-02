@@ -1,0 +1,8 @@
+{
+    "project_name": "MyMicroService", 
+    "project_port" : 5054,
+    "kafka_port" : 9092, 
+    "postgres_username" : "MyMicroServiceUser",
+    "postgres_password" : "MyMicroServicePassword",
+    "postgres_port" : 5432
+}
